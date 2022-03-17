@@ -1,1 +1,2 @@
 WIP (꜆꜄•ω•)꜆꜄꜆
+Frontend Programmer
