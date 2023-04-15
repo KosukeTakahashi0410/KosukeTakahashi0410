@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/KosukeTakahashi0410/KosukeTakahashi0410/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
